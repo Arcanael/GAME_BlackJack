@@ -1,0 +1,2 @@
+D:\GeekBrains учеба\С++\курс ООП\Задания ООП\Black_Jack\Debug\Black_Jack.exe
+D:\GeekBrains учеба\С++\курс ООП\Задания ООП\Black_Jack\Debug\Black_Jack.pdb
